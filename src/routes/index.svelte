@@ -1,4 +1,5 @@
 <script>
+	import { fly } from 'svelte/transition';
 	import '../app.css';
 </script>
 
@@ -20,15 +21,16 @@
 <div class="container">
 	<div class="row col-sm-12 my-5 py-5">
 		<div class="col-md-1" />
-		<div class="col-md-4 text-center" data-aos="fade-up-right">
+		<div class="col-md-4 text-center">
 			<img
+				transition:fly={{ y: 150, duration: 1500 }}
 				src="/profile.jpeg"
 				alt="Avatar"
 				class="img-responsive center-block d-block mx-auto my-4 __avatar"
 				style="width: 19rem;"
 			/>
 		</div>
-		<div class="col-md-6" data-aos="fade-up-left">
+		<div class="col-md-6">
 			<h1 class="mt-4 __headline">Look mom, @yuxxeun on metaverse.</h1>
 			<p>I explain with words and code (sometimes).</p>
 			<div class="my-4">
