@@ -13,7 +13,7 @@
 	<meta name="twitter:creator" content="@yuxxeun" />
 	<meta
 		name="twitter:image"
-		content="https://raw.githubusercontent.com/yuxxeun/yuxxeun.github.io/main/public/gradient.jpg"
+		content="https://raw.githubusercontent.com/yuxxeun/zea/main/image/gradient.jpg"
 	/>
 	<title>krido</title>
 </svelte:head>
@@ -46,8 +46,8 @@
 			</div>
 			<p>
 				You can stop reading in here, but if you want more, I'll give you extra details on my <a
-					href="https://yuxxeun.vercel.app"
-					class="__story">story</a
+					href="https://sotory.now.sh"
+					class="__story font-bold">story</a
 				>
 				- its basically a place where i can be me.
 				<br /><br />
