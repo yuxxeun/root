@@ -34,19 +34,26 @@
 			<h1 class="mt-4 __headline">Look mom, @yuxxeun on metaverse.</h1>
 			<p>I explain with words and code (sometimes).</p>
 			<div class="my-4">
-				<a href="https://github.com/yuxxeun"
-					><i href="https://github.com/yuxxeun" class="__icon lni lni-github lni-32" /></a
+				<a href="https://github.com/yuxxeun" target="_blank"
+					><i class="__icon lni lni-github lni-32" /></a
 				>
-				<a rel="me" href="https://twitter.com/yuxxeun"
+				<a rel="me" href="https://twitter.com/yuxxeun" target="_blank"
 					><i class="__icon lni lni-twitter lni-32" /></a
 				>
-				<a href="https://pixelfed.social/krido"><i class="__icon lni lni-instagram lni-32" /></a>
-				<a href="https://sasaw.vercel.app/"><i class="__icon lni lni-book lni-32" /></a>
-				<a href="https://poly.work/yuxxeun"><i class="__icon lni lni-sprout lni-32" /></a>
+				<a href="https://pixelfed.social/krido" target="_blank"
+					><i class="__icon lni lni-instagram lni-32" /></a
+				>
+				<a href="https://sasaw.vercel.app/" target="_blank"
+					><i class="__icon lni lni-book lni-32" /></a
+				>
+				<a href="https://poly.work/yuxxeun" target="_blank"
+					><i class="__icon lni lni-sprout lni-32" /></a
+				>
 			</div>
 			<p>
 				You can stop reading in here, but if you want more, I'll give you extra details on my <a
-					href="https://sotory.now.sh"
+					href="https://sotory.now.sh/"
+					target="_blank"
 					class="__story font-bold">story</a
 				>
 				- its basically a place where i can be me.
