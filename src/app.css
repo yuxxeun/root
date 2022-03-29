@@ -11,50 +11,24 @@ body {
 	color: whitesmoke;
 }
 
-.__emoji {
-	font-size: 60px !important;
-	background-image: -webkit-linear-gradient(90deg, rgb(61, 255, 255), #e6ff56);
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
-	-webkit-animation: hue 7s infinite linear;
-}
-
 .__avatar {
-	border: 5px whitesmoke solid;
+	border: 7px whitesmoke solid;
 	border-radius: 15px;
-	-webkit-box-shadow: -7px 7px 0px 0px #ffb900;
-	-moz-box-shadow: -7px 7px 0px 0px #ffb900;
-	box-shadow: -7px 7px 0px 0px #ffb900;
-}
-
-.__headline {
-	font-weight: bolder;
-	font-size: 40px;
-	line-height: 50px;
-	font-family: -apple-system, 'Inter', 'Space Mono';
-}
-
-.__icon {
-	margin: 0 10px;
-	color: #ffb900;
-}
-.__icon:hover {
-	color: whitesmoke;
-}
-
-.__story {
-	color: #ffb900;
-	font-style: italic;
-	text-decoration: underline;
-}
-
-.__story:hover {
-	color: whitesmoke;
+	-webkit-box-shadow: -10px 10px 0px 0px #a04c10;
+	-moz-box-shadow: -10px 10px 0px 0px #a04c10;
+	box-shadow: -10px 10px 0px 0px #a04c10;
 }
 
 p {
 	font-weight: 400;
 	line-height: 27px;
 	font-size: 20px;
+}
+
+.__inter {
+	font-family: 'Inter';
+}
+
+.__mono {
 	font-family: 'Space Mono';
 }
