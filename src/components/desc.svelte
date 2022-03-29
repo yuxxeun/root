@@ -20,17 +20,17 @@
 			<a title="@yuxxeun" href="https://github.com/yuxxeun" target="_blank"
 				><i class="hover:text-white lni lni-github lni-32" /></a
 			>
-			<a title="@yuxxeun" href="https://twitter.com/yuxxeun" target="_blank"
-				><i class="hover:text-white lni lni-twitter lni-32" /></a
-			>
 			<a title="pixelfed.social/krido" href="https://pixelfed.social/krido" target="_blank"
-				><i class="hover:text-white lni lni-instagram lni-32" /></a
+				><i class="hover:text-white lni lni-gallery lni-32" /></a
 			>
 			<a title="sasaw bookmarking server" href="https://sasaw.vercel.app/" target="_blank"
-				><i class="hover:text-white lni lni-book lni-32" /></a
+				><i class="hover:text-white lni lni-ticket-alt lni-32" /></a
 			>
 			<a title="journey" href="https://poly.work/yuxxeun" target="_blank"
-				><i class="hover:text-white lni lni-sprout lni-32" /></a
+				><i class="hover:text-white lni lni-travel lni-32" /></a
+			>
+			<a title="Labs" href="https://github.com/yuxxeun/caper" target="_blank"
+				><i class="hover:text-white lni lni-microscope lni-32" /></a
 			>
 		</div>
 		<p class="__mono">
