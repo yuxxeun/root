@@ -13,6 +13,7 @@
 		name="twitter:image"
 		content="https://raw.githubusercontent.com/yuxxeun/zea/main/image/gradient.jpg"
 	/>
+	<link href="https://cdn.lineicons.com/3.0/lineicons.css" rel="stylesheet" />
 	<title>Krido</title>
 </svelte:head>
 
