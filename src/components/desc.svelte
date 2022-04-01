@@ -2,6 +2,21 @@
 	import { fly, fade } from 'svelte/transition';
 </script>
 
+<svelte:head>
+	<meta name="description" content="thoughts, stories and ideas i guess" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="krido" />
+	<meta name="twitter:description" content="thoughts, stories and ideas i guess" />
+	<meta name="twitter:site" content="@yuxxeun" />
+	<meta name="twitter:creator" content="@yuxxeun" />
+	<meta
+		name="twitter:image"
+		content="https://raw.githubusercontent.com/yuxxeun/zea/main/image/gradient.jpg"
+	/>
+	<link href="https://cdn.lineicons.com/3.0/lineicons.css" rel="stylesheet" />
+	<title>Krido</title>
+</svelte:head>
+
 <div class="row col-sm-12 my-5 py-5">
 	<div class="col-md-1" />
 	<div class="col-md-4 text-center">
