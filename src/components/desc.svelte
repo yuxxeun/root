@@ -31,7 +31,7 @@
 	<div class="col-md-6">
 		<h1 class="mt-4 font-extrabold text-5xl __inter">Look mom, @yuxxeun on metaverse.</h1>
 		<p class="__mono italic my-3">thoughts, stories and ideas i guess.</p>
-		<div class="my-4 space-x-5 text-orange-500">
+		<div class="my-4 space-x-5 text-fuchsia-500">
 			<a title="@yuxxeun" href="https://github.com/yuxxeun" target="_blank"
 				><i class="hover:text-white lni lni-github lni-32" /></a
 			>
@@ -53,7 +53,7 @@
 			<a
 				href="https://sotory.now.sh/"
 				target="_blank"
-				class="text-orange-500 hover:text-white font-bold">story</a
+				class="text-fuchsia-500 hover:text-white font-bold">story</a
 			>
 			— its basically a place where I can be Me.
 			<br /><br />

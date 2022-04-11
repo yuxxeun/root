@@ -7,16 +7,16 @@
 }
 
 body {
-	background-color: rgb(16, 8, 24);
+	background-color: #000;
 	color: whitesmoke;
 }
 
 .__avatar {
 	border: 7px whitesmoke solid;
 	border-radius: 15px;
-	-webkit-box-shadow: -10px 10px 0px 0px #a04c10;
-	-moz-box-shadow: -10px 10px 0px 0px #a04c10;
-	box-shadow: -10px 10px 0px 0px #a04c10;
+	-webkit-box-shadow: -10px 10px 0px 0px rgb(217, 70, 293);
+	-moz-box-shadow: -10px 10px 0px 0px rgb(217, 70, 293);
+	box-shadow: -10px 10px 0px 0px rgb(217, 70, 293);
 }
 
 p {
