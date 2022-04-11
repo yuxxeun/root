@@ -4,7 +4,7 @@
 	export function load() {
 		return {
 			props: {
-				title: `451 — Tersesat Di Jalan yang Benar`
+				title: `Tersesat di jalan yang benar`
 			}
 		};
 	}
@@ -19,7 +19,7 @@
 </svelte:head>
 
 <div class="my-20 w-5/6 sm:w-2/3 mx-auto" transition:fade>
-	<h1 class="text-5xl __inter text-orange-500 font-extrabold">
+	<h1 class="text-5xl __inter text-fuchsia-500 font-extrabold">
 		{title}
 	</h1>
 	<p class="text-lg my-10 text-left __mono">
@@ -30,7 +30,7 @@
 	</p>
 	<a
 		href="/"
-		class="rounded-lg text-left px-10 __mono py-2 text-orange-500 hover:text-white border-2 border-gray-500"
+		class="rounded-lg text-left px-10 __mono py-2 text-fuchsia-500 hover:text-white border-2 border-gray-500"
 	>
 		jalan kebenaran &rarr;
 	</a>
