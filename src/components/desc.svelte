@@ -1,5 +1,5 @@
 <script>
-	import { fly, fade } from 'svelte/transition';
+	import { fly } from 'svelte/transition';
 </script>
 
 <svelte:head>
@@ -38,7 +38,7 @@
 			<a title="pixelfed.social/krido" href="https://pixelfed.social/krido" target="_blank"
 				><i class="hover:text-white lni lni-gallery lni-32" /></a
 			>
-			<a title="sasaw bookmarking server" href="https://sasaw.vercel.app/" target="_blank"
+			<a title="yuxxeun edgy library" href="/books" target="_blank"
 				><i class="hover:text-white lni lni-ticket-alt lni-32" /></a
 			>
 			<a title="journey" href="https://poly.work/yuxxeun" target="_blank"

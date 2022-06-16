@@ -3,6 +3,6 @@
 	import '../app.css';
 </script>
 
-<div>
+<section>
 	<slot />
-</div>
+</section>
