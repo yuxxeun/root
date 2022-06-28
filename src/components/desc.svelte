@@ -29,7 +29,7 @@
 		/>
 	</div>
 	<div class="col-md-6">
-		<h1 class="mt-4 font-extrabold text-5xl __inter">Look mom, @yuxxeun on metaverse.</h1>
+		<h1 class="mt-4 font-extrabold text-5xl __inter">Look mom, @yuxxeun on edgy network.</h1>
 		<p class="__mono italic my-3">thoughts, stories and ideas i guess.</p>
 		<div class="my-4 space-x-5 text-fuchsia-500">
 			<a title="@yuxxeun" href="https://github.com/yuxxeun" target="_blank"
