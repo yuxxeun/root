@@ -44,14 +44,14 @@
 			<a title="journey" href="https://poly.work/yuxxeun" target="_blank"
 				><i class="hover:text-white lni lni-travel lni-32" /></a
 			>
-			<a title="Labs" href="https://github.com/yuxxeun/caper" target="_blank"
+			<a title="Labs" href="https://github.com/evangeliztco" target="_blank"
 				><i class="hover:text-white lni lni-microscope lni-32" /></a
 			>
 		</div>
 		<p class="__mono">
 			you can stop reading in here, but if you want more, I'll give you extra details on my
 			<a
-				href="https://sotory.now.sh/"
+				href="https://oxs.now.sh/"
 				target="_blank"
 				class="text-fuchsia-500 hover:text-white font-bold">story</a
 			>
