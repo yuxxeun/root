@@ -51,9 +51,9 @@
 		<p class="__mono">
 			you can stop reading in here, but if you want more, I'll give you extra details on my
 			<a
-				href="https://oxs.now.sh/"
+				href="https://edgy.now.sh/"
 				target="_blank"
-				class="text-fuchsia-500 hover:text-white font-bold">story</a
+				class="text-fuchsia-500 hover:text-white font-bold">edgy digital garden</a
 			>
 			— its basically a place where I can be Me.
 			<br /><br />
