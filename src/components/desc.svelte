@@ -57,6 +57,12 @@
 			>
 			— its basically a place where I can be Me.
 			<br /><br />
+			Send random message to me on <a
+				href="https://secreto.now.sh/"
+				target="_blank"
+				class="text-fuchsia-500 hover:text-white font-bold">secreto</a
+			>!
+			<br /><br />
 			<span class="italic">Thank you for coming to my space!</span>
 		</p>
 	</div>
