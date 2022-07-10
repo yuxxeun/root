@@ -1,4 +1,27 @@
 @tailwind base;
+
+@font-face {
+	font-family: 'BasementGrotesque-Black';
+	src: url('/fonts/Basement/BasementGrotesque-Black.woff2') format('woff2');
+	font-weight: 400;
+	font-display: swap;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'SpaceMono-Regular';
+	src: url('/fonts/Space/SpaceMono-Regular.woff2') format('woff2');
+	font-weight: 400;
+	font-display: swap;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Inter-Regular';
+	src: url('/fonts/Inter/Inter-Regular.woff2') format('woff2');
+	font-weight: 400;
+	font-display: swap;
+	font-style: normal;
+}
+
 @tailwind components;
 @tailwind utilities;
 
@@ -7,7 +30,7 @@
 }
 
 body {
-	background-color: #000;
+	background-color: #090c1b;
 	color: whitesmoke;
 }
 
@@ -31,4 +54,8 @@ p {
 
 .__mono {
 	font-family: 'Space Mono';
+}
+
+.__orange {
+	color: #ff5722;
 }
