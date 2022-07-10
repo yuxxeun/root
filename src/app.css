@@ -37,9 +37,9 @@ body {
 .__avatar {
 	border: 7px whitesmoke solid;
 	border-radius: 15px;
-	-webkit-box-shadow: -10px 10px 0px 0px rgb(217, 70, 293);
-	-moz-box-shadow: -10px 10px 0px 0px rgb(217, 70, 293);
-	box-shadow: -10px 10px 0px 0px rgb(217, 70, 293);
+	-webkit-box-shadow: -10px 10px 0px 0px #ff5722;
+	-moz-box-shadow: -10px 10px 0px 0px #ff5722;
+	box-shadow: -10px 10px 0px 0px #ff5722;
 }
 
 p {

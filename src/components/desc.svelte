@@ -30,8 +30,8 @@
 	</div>
 	<div class="col-md-6">
 		<h1 class="mt-4 font-extrabold text-5xl __inter">Look mom, @yuxxeun on edgy network.</h1>
-		<p class="__mono italic my-3">thoughts, stories and ideas i guess.</p>
-		<div class="my-4 space-x-5 text-fuchsia-500">
+		<p class="__mono italic my-3">thoughts, stories and very ideas.</p>
+		<div class="my-4 space-x-5 text-orange">
 			<a title="@yuxxeun" href="https://github.com/yuxxeun" target="_blank"
 				><i class="hover:text-white lni lni-github lni-32" /></a
 			>
@@ -50,14 +50,14 @@
 			<a
 				href="https://edgy.now.sh/"
 				target="_blank"
-				class="text-fuchsia-500 hover:text-white font-bold">edgy digital garden</a
+				class="text-orange hover:text-white font-bold">edgy digital garden</a
 			>
 			— its basically a place where I can be Me.
 			<br /><br />
 			Send random message to me on <a
 				href="https://secreto.now.sh/"
 				target="_blank"
-				class="text-fuchsia-500 hover:text-white font-bold">secreto</a
+				class="text-orange hover:text-white font-bold">secreto</a
 			>!
 			<br /><br />
 			<span class="italic">Thank you for coming to my space!</span>
