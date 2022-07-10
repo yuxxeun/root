@@ -3,8 +3,7 @@
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "vite",
-"build": "vite build --config vite.config.js",
-    "build:lib": "vite build --config vite-lib.config.js",
+		"build": "vite build",
 		"package": "vite package",
 		"preview": "vite preview",
 		"prepare": "vite sync",
