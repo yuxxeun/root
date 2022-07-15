@@ -9,7 +9,6 @@
 	<meta name="title" content="yuxxeun" />
 	<meta name="description" content="making cool shit cybernetically." />
 	<meta name="title" content="yuxxeun" />
-	<meta name="description" content="making cool shit cybernetically." />
 	<meta name="keywords" content="yuxxeun, krido, yx, krido pambudi, @yuxxeun" />
 	<meta name="robots" content="noindex, nofollow" />
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
