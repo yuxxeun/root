@@ -4,43 +4,39 @@
 </script>
 
 <svelte:head>
-	<MetaTags
-		title="yuxxeun"
-		titleTemplate="%s | edgy network"
-		description="making cool shit cybernetically."
-		canonical="https://www.yuxxeun.now.sh/"
-		openGraph={{
-			url: 'https://yuxxeun.now.sh',
-			title: 'yuxxeun',
-			description: 'making cool shit cybernetically.',
-			images: [
-				{
-					url: 'https://raw.githubusercontent.com/yuxxeun/yuxxeun/master/header.png',
-					width: 800,
-					height: 600,
-					alt: 'Og Image Alt'
-				},
-				{
-					url: 'https://raw.githubusercontent.com/yuxxeun/yuxxeun/master/header.png',
-					width: 900,
-					height: 800,
-					alt: 'Og Image Alt Second'
-				}
-			],
-			site_name: 'yuxxeun'
-		}}
-		twitter={{
-			handle: '@yuxxeun',
-			site: 'https://yuxxeun.now.sh',
-			cardType: 'summary_large_image',
-			title: 'yuxxeun',
-			description: 'making cool shit cybernetically.',
-			image: 'https://raw.githubusercontent.com/yuxxeun/yuxxeun/master/header.png',
-			imageAlt: 'yuxxeun coolest image'
-		}}
-	/>
-	<link href="https://cdn.lineicons.com/3.0/lineicons.css" rel="stylesheet" />
+	<!-- Primary Meta Tags -->
 	<title>yuxxeun</title>
+	<meta name="title" content="yuxxeun" />
+	<meta name="description" content="making cool shit cybernetically." />
+	<meta name="title" content="yuxxeun" />
+	<meta name="description" content="making cool shit cybernetically." />
+	<meta name="keywords" content="yuxxeun, krido, yx, krido pambudi, @yuxxeun" />
+	<meta name="robots" content="noindex, nofollow" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="English" />
+	<meta name="revisit-after" content="7 days" />
+	<meta name="author" content="@yuxxeun" />
+	<link href="https://cdn.lineicons.com/3.0/lineicons.css" rel="stylesheet" />
+
+	<!-- Open Graph / Facebook -->
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://yuxxeun.vercel.app/" />
+	<meta property="og:title" content="yuxxeun" />
+	<meta property="og:description" content="making cool shit cybernetically." />
+	<meta
+		property="og:image"
+		content="https://raw.githubusercontent.com/yuxxeun/yuxxeun/master/gradient.jpg"
+	/>
+
+	<!-- Twitter -->
+	<meta property="twitter:card" content="summary_large_image" />
+	<meta property="twitter:url" content="https://yuxxeun.vercel.app/" />
+	<meta property="twitter:title" content="yuxxeun" />
+	<meta property="twitter:description" content="making cool shit cybernetically." />
+	<meta
+		property="twitter:image"
+		content="https://raw.githubusercontent.com/yuxxeun/yuxxeun/master/gradient.jpg"
+	/>
 </svelte:head>
 
 <div class="container">
