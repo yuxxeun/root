@@ -2,21 +2,6 @@
 	import { fly } from 'svelte/transition';
 </script>
 
-<svelte:head>
-	<meta name="description" content="thoughts, stories and ideas i guess" />
-	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:title" content="krido" />
-	<meta name="twitter:description" content="thoughts, stories and ideas i guess" />
-	<meta name="twitter:site" content="@yuxxeun" />
-	<meta name="twitter:creator" content="@yuxxeun" />
-	<meta
-		name="twitter:image"
-		content="https://raw.githubusercontent.com/yuxxeun/zea/main/image/gradient.jpg"
-	/>
-	<link href="https://cdn.lineicons.com/3.0/lineicons.css" rel="stylesheet" />
-	<title>Krido</title>
-</svelte:head>
-
 <div class="row col-sm-12 my-5 py-5">
 	<div class="col-md-1" />
 	<div class="col-md-4 text-center">
@@ -45,19 +30,18 @@
 				><i class="hover:text-white lni lni-microscope lni-32" /></a
 			>
 		</div>
-		<p class="__mono">
+		<p class="__mono italic">
 			you can stop reading in here, but if you want more, I'll give you extra details on my
-			<a
-				href="https://edgy.now.sh/"
-				target="_blank"
-				class="text-orange hover:text-white font-bold">edgy digital garden</a
+			<a href="https://edgy.now.sh/" target="_blank" class="text-orange font-bold"
+				>edgy digital garden</a
 			>
 			— its basically a place where I can be Me.
 			<br /><br />
-			Send random message to me on <a
+			Send random message to me on
+			<a
 				href="https://secreto.now.sh/"
 				target="_blank"
-				class="text-orange hover:text-white font-bold">secreto</a
+				class="text-orange font-bold">secreto</a
 			>!
 			<br /><br />
 			<span class="italic">Thank you for coming to my space!</span>
