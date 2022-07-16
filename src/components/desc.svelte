@@ -15,7 +15,7 @@
 	</div>
 	<div class="col-md-6">
 		<h1 class="mt-4 font-extrabold text-5xl __inter">Look mom, @yuxxeun on edgy network.</h1>
-		<p class="__mono italic my-3">thoughts, stories and very ideas.</p>
+		<p class="__mono italic my-3">making cool shit cybernetically, period.</p>
 		<div class="my-4 space-x-5 text-orange">
 			<a title="@yuxxeun" href="https://github.com/yuxxeun" target="_blank"
 				><i class="hover:text-white lni lni-github lni-32" /></a
